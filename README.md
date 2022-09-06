@@ -1,2 +1,2 @@
-# git-index.js
-Git and Github
+# File manager
+
